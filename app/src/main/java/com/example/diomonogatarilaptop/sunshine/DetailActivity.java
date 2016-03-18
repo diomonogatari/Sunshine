@@ -1,15 +1,7 @@
 package com.example.diomonogatarilaptop.sunshine;
 
-import android.os.Bundle;
-import android.support.v7.app.AppCompatActivity;
-import android.view.Menu;
-import android.view.MenuItem;
 
-
-
-public class DetailActivity extends AppCompatActivity {
-
-    /*
+/*
  * Copyright (C) 2014 The Android Open Source Project
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
@@ -24,6 +16,17 @@ public class DetailActivity extends AppCompatActivity {
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
+
+import android.os.Bundle;
+import android.support.v7.app.ActionBarActivity;
+import android.view.Menu;
+import android.view.MenuItem;
+
+
+
+public class DetailActivity extends ActionBarActivity {
+
+
 
 
 
@@ -63,7 +66,7 @@ public class DetailActivity extends AppCompatActivity {
             return super.onOptionsItemSelected(item);
         }
 
-        
+
 
 
 }
