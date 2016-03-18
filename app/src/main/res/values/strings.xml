@@ -2,5 +2,6 @@
     <string name="app_name" translatable="false">Sunshine</string>
     <string name="action_settings" translatable="false">Settings</string>
     <string name="action_refresh" translatable="false">Refresh</string>
+    <string name="title_activity_detail">DetailActivity</string>
 
 </resources>
